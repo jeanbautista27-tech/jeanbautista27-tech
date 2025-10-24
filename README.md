@@ -54,7 +54,7 @@
 
 # Contador de Vistas
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oscarmy333&label=Profile%20views&color=0e75b6&style=flat" alt=" oscarmy333" />
+<img src="https://komarev.com/ghpvc/?username=jeanbautista27-tech&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbautista27-tech" />
 </p>
 
 # Lenguajes
