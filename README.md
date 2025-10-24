@@ -4,7 +4,7 @@
 - Estoy en Github [JennerBautista](https://github.com/jeanbautista27-tech)
 - Actualmente aprendiendo **MLops, DevOps**
 - Pregúntame acerca de **Java, Spring Framework**
-- Mis experiencias en [https://www.linkedin.com/in/oscar-meneses-yaranga-80892022/](https://www.linkedin.com/in/oscar-meneses-yaranga-80892022/)
+
 
 **Mis Proyectos**
 | **Name** | **Description** | **GitHub Stars** |
