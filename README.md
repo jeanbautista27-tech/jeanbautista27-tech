@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Jenner Bautista</h1>
-<h3 align="center">Desarrollador Back-End || Data Ops || Ingeniero Informático por la UNSCH</h3>
+<h3 align="center">Desarrollador Back-End || Data Ops || Ingeniero de Sistemas por la UNSCH</h3>
 
 - Estoy en Github [JennerBautista](https://github.com/jeanbautista27-tech)
 - Actualmente aprendiendo **MLops, DevOps**
