@@ -58,8 +58,8 @@
 </p>
 
 # Lenguajes
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmy333&layout=compact&theme=dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbautista27-tech&layout=compact&theme=dark)
 # Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmy333&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanbautista27-tech&show_icons=true&theme=dark)
 # Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=oscarmy333&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeanbautista27-tech&theme=elegant)](https://git.io/streak-stats)
