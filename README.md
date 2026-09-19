@@ -150,7 +150,7 @@ Actualmente se encuentra **funcional en entorno local**.
 
 📧 **jean.bautista.27@unsch.edu.pe**
 
-💼 **LinkedIn:** Próximamente
+💼 **LinkedIn: https://www.linkedin.com/in/jean-jenner-bautista-figueroa-346534438/ ** 
 
 ---
 
