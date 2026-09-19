@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Jenner Bautista
 
-### 💻 Ingeniero de Sistemas | Backend Developer | Java & Spring | Data & AI
+### 💻 Estudiante de Ingenieria de Sistemas | Backend Developer | Java & Spring | Data & AI
 
 </div>
 
