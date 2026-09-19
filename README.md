@@ -1,6 +1,10 @@
+<div align="center">
+
 # 👋 Hola, soy Jenner Bautista
 
-## 💻 Ingeniero de Sistemas | Backend Developer | Java & Spring | Data & AI
+### 💻 Ingeniero de Sistemas | Backend Developer | Java & Spring | Data & AI
+
+</div>
 
 Soy estudiante de **Ingeniería de Sistemas en la UNSCH**, orientado al
 desarrollo de software y especialmente al desarrollo Backend con
